@@ -11,6 +11,16 @@
   <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
 </div>
 
+## Table of Contents
+
+- [Description](#Description)
+- [Requirements](#Requirements)
+- [Project Layout](#Project-Layout)
+- [Display](#Display)
+- [Contact](#contact)
+
+## Description
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/106806808/215711438-e02d5343-26c1-4949-85cc-87c8c4540e76.jpg" style="text-align: center; width: 400px ">
 </div>
