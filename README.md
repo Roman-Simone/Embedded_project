@@ -5,10 +5,14 @@
 <!--![L298N](https://user-images.githubusercontent.com/106806808/215067957-167178b5-6da6-4547-bd09-d2daf8359801.jpeg)-->
 <!--![msp432](https://user-images.githubusercontent.com/106806808/215067958-aa9dbdce-7557-4647-be4b-ba4c161b3c81.png)-->
 
+<div align="center">
+  <h1 style="border-bottom: none;">Embedded project: Smart Car</h1>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+</div>
 
-# Smart Car
 <div align=center>
-<img src="https://user-images.githubusercontent.com/106806808/215711438-e02d5343-26c1-4949-85cc-87c8c4540e76.jpg" style="text-align: center; width: 500px ">
+<img src="https://user-images.githubusercontent.com/106806808/215711438-e02d5343-26c1-4949-85cc-87c8c4540e76.jpg" style="text-align: center; width: 400px ">
 </div>
 This project has been developed by Mattia Rigon, Stefano Bonetto and Simone Roman as the exam for the UniTN course of Embedded Software for the Internet of Things.<br><br>
 It's basically a Wi-Fi remoted controlled car, we can drive it in three modes:
