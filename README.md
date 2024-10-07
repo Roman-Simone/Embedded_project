@@ -17,7 +17,9 @@
 - [Requirements](#Requirements)
 - [Project Layout](#Project-Layout)
 - [Display](#Display)
-- [Contact](#contact)
+- [Motors](#Motors)
+- [Other resources](#Other-resources)
+- [Contacts](#Contacts)
 
 ## Description
 
@@ -266,8 +268,17 @@ At the beginning we were using a motor shield which wasn't able to serve four mo
   </tr>
 </table><br>
 
-## Contact us
-Stefano Bonetto: stefano.bonetto@studenti.unitn.it <br>
-Simone Roman: simone.roman@studenti.unitn.it <br>
-Mattia Rigon: mattia.rigon@studenti.unitn.it <br>
+## Contacts
+For any inquiries, feel free to contact:
 
+- Simone Roman - [simone.roman@studenti.unitn.it](mailto:simone.roman@studenti.unitn.it)
+- Stefano Bonetto - [stefano.bonetto@studenti.unitn.it](mailto:stefano.bonetto@studenti.unitn.it)
+- Mattia Rigon - [mattia.rigon@studenti.unitn.it](mailto:mattia.rigon@studenti.unitn.it)
+
+<br>
+
+<div>
+    <a href="https://www.unitn.it/">
+        <img src="https://ing-gest.disi.unitn.it/wp-content/uploads/2022/11/marchio_disi_bianco_vert_eng-1024x295.png" width="400px">
+    </a>
+</div>
